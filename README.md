@@ -1,0 +1,1 @@
+# Excel-Empty-Column-Remover
